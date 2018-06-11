@@ -1,1 +1,1 @@
-# react-native-tutorial
+# react-native-practice
